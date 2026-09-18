@@ -1,0 +1,6 @@
+{
+  "name": "CineAdivinha - Jogo de Adivinhação de Filmes",
+  "description": "Jogo multiplayer interativo de adivinhação de filmes de 2 a 4 jogadores com turnos em tempo real, efeito de tomate esmagado na tela para erros, customização de avatar com roupas desbloqueadas e corrida até 1000 pontos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
